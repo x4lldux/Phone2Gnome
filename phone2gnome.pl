@@ -1,6 +1,6 @@
 #!/usr/bin/perl -w
 # phone2gnome.pl --- 
-# Author: Pawel Drygas <x4lldux@mint>
+# Author: Pawel Drygas <x4lldux@jabster.pl>
 # Created: 11 Jul 2011
 # Version: 0.01
 
